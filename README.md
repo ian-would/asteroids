@@ -1,2 +1,2 @@
 # asteroids
-Rep for the Bootdev asteroids project
+Repo for the Bootdev asteroids project
